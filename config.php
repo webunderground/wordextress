@@ -1,6 +1,6 @@
 <?php
 define('DBUSER','root');
-define('DBPWD','osperto28');
+define('DBPWD','password');
 define('DBHOST','localhost');
 define('DBNAME','wordextress');
 ?>
